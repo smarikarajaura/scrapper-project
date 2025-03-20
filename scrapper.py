@@ -1,6 +1,7 @@
+import json
 import requests
 from bs4 import BeautifulSoup
-import json
+
 URL = "http://books.toscrape.com/"
 
 # install git
